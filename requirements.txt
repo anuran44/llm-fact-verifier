@@ -1,0 +1,10 @@
+streamlit
+nltk
+torch
+sentence-transformers
+newspaper3k
+ollama
+requests
+tqdm
+ddgs
+pandas
